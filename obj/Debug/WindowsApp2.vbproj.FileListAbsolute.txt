@@ -1,0 +1,16 @@
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\bin\Debug\Porodnice_databáze0203.mdb
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\obj\Debug\WindowsApp2.Form2.resources
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\obj\Debug\WindowsApp2.Form3.resources
+C:\Users\Lukáš Bechný\source\repos\WindowsApp2\obj\Debug\WindowsApp2.Form4.resources
